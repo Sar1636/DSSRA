@@ -15,12 +15,12 @@ Our code is based on [link](https://github.com/Li-ZK/DCRN-2021)
 
 # Requirement
 
-Python >= 3.11.0
-torch >= 2.3.0
-PyTorch 2.3.0
-torchvision 0.18.0
-CUDA 11.8
-tqdm
+- Python >= 3.11.0
+- torch >= 2.3.0
+- PyTorch 2.3.0
+- torchvision 0.18.0
+- CUDA 11.8
+- tqdm
 
 # Usage
 
